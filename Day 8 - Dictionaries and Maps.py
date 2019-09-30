@@ -15,4 +15,4 @@ for i in range(0, N):
             print("Not found")
     except:
         break
-//you may get runtime error at test case 1, to remove that you must use try except.
+# you may get runtime error at test case 1, to remove that you must use try except.
